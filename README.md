@@ -8,5 +8,6 @@
 7. npm install
 8. npm run dev
 9. copy the local server code and paste it in your browser
+10. There is a detailed readme.txt file inside the folder with more details regarding the design approach.
     
    
